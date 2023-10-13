@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vasilis1M
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning ... coding
-- 💞️ I’m looking to collaborate on ... (nothing yet)
+- 🌱 I’m currently studying ... coding
+- 💞️ I’m looking to collaborate on ... nothing yet
 - 📫 How to reach me ... at my student email : 13-13724@saeinstitute.edu
 
 <!---
